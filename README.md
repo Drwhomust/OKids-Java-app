@@ -1,3 +1,3 @@
 ## OKids Java
 
-This is the version of OKids that requires no extensions to use.
+A port of the OKids Java website as a PWA
